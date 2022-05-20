@@ -1,0 +1,30 @@
+{
+  
+  "scripts": {
+  
+    
+  "start": "nodemon app.js"
+  
+  },
+  
+  "keywords": [],
+  
+  "type": "module",
+  
+  "dependencies": {
+  
+    
+  "express": "^4.18.1",
+  
+    
+  "mongoose": "^6.3.3"
+  
+  },
+  
+  "devDependencies": {
+  
+    
+  "nodemon": "^2.0.16"
+  
+  }
+}
